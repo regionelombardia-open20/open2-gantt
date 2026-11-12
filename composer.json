@@ -1,5 +1,6 @@
 {
   "name": "lispa/amos-gantt",
+  "license": "GPL-3.0-or-later",
   "description": "Amos Gantt",
   "keywords": [
     "amos",
